@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2D_array.cpp" />
+    <ClCompile Include="reverse_string.cpp" />
     <ClCompile Include="src\rand_100_array.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
