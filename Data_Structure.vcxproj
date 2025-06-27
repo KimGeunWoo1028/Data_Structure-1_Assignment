@@ -22,6 +22,7 @@
     <ClCompile Include="02_2D_array.cpp" />
     <ClCompile Include="03_reverse_string.cpp" />
     <ClCompile Include="04_Student_Struct.cpp" />
+    <ClCompile Include="05_Factorial_program.cpp" />
     <ClCompile Include="src\01_rand_100_array.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
