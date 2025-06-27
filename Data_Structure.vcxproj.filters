@@ -18,13 +18,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\rand_100_array.cpp">
+    <ClCompile Include="src\01_rand_100_array.cpp">
       <Filter>소스 파일\src</Filter>
     </ClCompile>
-    <ClCompile Include="2D_array.cpp">
-      <Filter>소스 파일\src</Filter>
-    </ClCompile>
-    <ClCompile Include="reverse_string.cpp">
+    <ClCompile Include="02_2D_array.cpp">
       <Filter>소스 파일\src</Filter>
     </ClCompile>
   </ItemGroup>
