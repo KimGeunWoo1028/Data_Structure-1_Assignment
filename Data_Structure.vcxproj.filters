@@ -39,5 +39,11 @@
     <ClCompile Include="07_Linkedlist_insert.cpp">
       <Filter>소스 파일\src</Filter>
     </ClCompile>
+    <ClCompile Include="08_Linkedlist_delete.cpp">
+      <Filter>소스 파일\src</Filter>
+    </ClCompile>
+    <ClCompile Include="09_Linkedlist_insert_delete_position.cpp">
+      <Filter>소스 파일\src</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
