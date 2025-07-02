@@ -38,6 +38,7 @@
     <ClCompile Include="18_Queue_using_Linear_Array.cpp" />
     <ClCompile Include="19_Queue_using_Round_Array.cpp" />
     <ClCompile Include="20_Queue_using_Dynamic_Round_Array.cpp" />
+    <ClCompile Include="21_Queue_Application_using_Linkedlist.cpp" />
     <ClCompile Include="src\01_rand_100_array.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
