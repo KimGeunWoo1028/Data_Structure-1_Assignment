@@ -81,5 +81,8 @@
     <ClCompile Include="21_Queue_Application_using_Linkedlist.cpp">
       <Filter>소스 파일\src</Filter>
     </ClCompile>
+    <ClCompile Include="22_Task_Processing_Algorithm_using_singleCPU.cpp">
+      <Filter>소스 파일\src</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
