@@ -36,7 +36,6 @@
     <ClCompile Include="16_Bracket_Checking_Algorithm.cpp" />
     <ClCompile Include="17_Postfix_Evaluation_Algorithm.cpp" />
     <ClCompile Include="18_Queue_using_Linear_Array.cpp" />
-    <ClCompile Include="19_Queue_using_Round_Array.cpp" />
     <ClCompile Include="src\01_rand_100_array.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
