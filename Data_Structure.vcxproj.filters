@@ -69,5 +69,8 @@
     <ClCompile Include="17_Postfix_Evaluation_Algorithm.cpp">
       <Filter>소스 파일\src</Filter>
     </ClCompile>
+    <ClCompile Include="18_Queue_using_linear_array.cpp">
+      <Filter>소스 파일\src</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
