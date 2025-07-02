@@ -72,5 +72,11 @@
     <ClCompile Include="18_Queue_using_Linear_Array.cpp">
       <Filter>소스 파일\src</Filter>
     </ClCompile>
+    <ClCompile Include="19_Queue_using_Round_Array.cpp">
+      <Filter>소스 파일\src</Filter>
+    </ClCompile>
+    <ClCompile Include="20_Queue_using_Dynamic_Round_Array.cpp">
+      <Filter>소스 파일\src</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
