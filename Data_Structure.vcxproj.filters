@@ -51,5 +51,8 @@
     <ClCompile Include="11_Doubly_Linkedlist_ADT.cpp">
       <Filter>소스 파일\src</Filter>
     </ClCompile>
+    <ClCompile Include="12_Compare_Arraylist_Linkedlist.cpp">
+      <Filter>소스 파일\src</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
