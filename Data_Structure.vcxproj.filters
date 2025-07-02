@@ -54,5 +54,11 @@
     <ClCompile Include="12_Compare_Arraylist_Linkedlist.cpp">
       <Filter>소스 파일\src</Filter>
     </ClCompile>
+    <ClCompile Include="13_Using_Dynamic_Array.cpp">
+      <Filter>소스 파일\src</Filter>
+    </ClCompile>
+    <ClCompile Include="14_Stack.cpp">
+      <Filter>소스 파일\src</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
