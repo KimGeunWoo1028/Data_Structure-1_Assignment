@@ -32,6 +32,8 @@
     <ClCompile Include="12_Compare_Arraylist_Linkedlist.cpp" />
     <ClCompile Include="13_Using_Dynamic_Array.cpp" />
     <ClCompile Include="14_Stack.cpp" />
+    <ClCompile Include="15_Stack_Deep_Copy.cpp" />
+    <ClCompile Include="16_Bracket_Checking_Algorithm.cpp" />
     <ClCompile Include="src\01_rand_100_array.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
