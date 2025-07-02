@@ -27,6 +27,8 @@
     <ClCompile Include="07_Linkedlist_insert.cpp" />
     <ClCompile Include="08_Linkedlist_delete.cpp" />
     <ClCompile Include="09_Linkedlist_insert_delete_position.cpp" />
+    <ClCompile Include="10_Circular_Linkedlist_ADT.cpp" />
+    <ClCompile Include="11_Doubly_Linkedlist_ADT.cpp" />
     <ClCompile Include="src\01_rand_100_array.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
