@@ -33,7 +33,7 @@
 | 12   | `12_Compare_Arraylist_Linkedlist.cpp`       | 배열 vs 연결리스트 비교              |
 | 13   | `13_Using_Dynamic_Array.cpp`                | 동적 배열 사용                       |
 | 14   | `14_Stack.cpp`                              | 스택 구현                            |
-| 15   | `15_Stack_Deep_Copy.cpp`                    | 스택 깊은 복사                       |
+| 15   | `15_Stack_Deep_Copy.cpp`                    | 스택 Deep Copy                       |
 | 16   | `16_Bracket_Checking_Algorithm.cpp`         | 괄호 검사 알고리즘                   |
 | 17   | `17_Postfix_Evaluation_Algorithm.cpp`       | 후위 표기 계산기                     |
 | 18   | `18_Queue_using_Linear_Array.cpp`           | 선형 배열 큐                         |
