@@ -77,7 +77,7 @@ g++ src/14_Stack.cpp -o stack
 ## 🙋‍♂️ 작성자
 
 - 이름: 김근우 (컴퓨터공학과)
-- GitHub: [[github.com/your-id](https://github.com/your-id)](https://github.com/KimGeunWoo1028) <!-- 수정 필요 -->
+- GitHub: https://github.com/KimGeunWoo1028 <!-- 수정 필요 -->
 - 이메일: jeunghyon1234@gmail.com
 
 ---
