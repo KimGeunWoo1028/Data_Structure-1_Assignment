@@ -1,6 +1,6 @@
-# 📚 C++ Basic Data Structure & Algorithm Assignments
+# 📚 C Basic Data Structure & Algorithm Assignments
 
-이 리포지토리는 **C++ 언어로 작성된 다양한 자료구조 및 알고리즘 과제**를 모아놓은 저장소입니다.  
+이 리포지토리는 **C 언어로 작성된 다양한 자료구조 및 알고리즘 과제**를 모아놓은 저장소입니다.  
 각 `.cpp` 파일은 **독립적인 프로그램**으로 구성되어 있으며, `main()` 함수를 포함합니다.
 
 ---
@@ -10,7 +10,7 @@
 - 기초 자료구조 구현 능력 향상
 - 동적 메모리 및 직접적인 메모리 제어 실습
 - 성능 비교를 통한 효율적인 알고리즘 학습
-- C++ 프로그래밍 능력 및 코드 구조 이해 강화
+- C 프로그래밍 능력 및 코드 구조 이해 강화
 
 ---
 
@@ -56,7 +56,7 @@ g++ src/14_Stack.cpp -o stack
 
 ## 💻 개발 환경
 
-- 언어: C++
+- 언어: C
 - 컴파일러: g++, clang
 - 운영체제: Windows / Linux / macOS
 - 개발 도구: Visual Studio
