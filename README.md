@@ -54,7 +54,7 @@ g++ src/14_Stack.cpp -o stack
 ./stack
 ```
 
-## 5. 개발 환경
+## 💻 개발 환경
 
 - 언어: C++
 - 컴파일러: g++, clang
@@ -63,7 +63,7 @@ g++ src/14_Stack.cpp -o stack
 
 ---
 
-## 6. 주요 학습 내용
+## 🧠 주요 학습 내용
 
 - 배열, 구조체, 동적 메모리 할당
 - ArrayList / LinkedList / Circular list / Doubly Linked List 구현
@@ -73,7 +73,7 @@ g++ src/14_Stack.cpp -o stack
 
 ---
 
-## 7. 작성자
+## 👨‍💻 작성자
 
 - 이름: 김근우
 - 전공: 컴퓨터공학
@@ -82,6 +82,6 @@ g++ src/14_Stack.cpp -o stack
 
 ---
 
-## 8. 라이센스
+## 📄 라이센스
 
 본 리포지토리는 개인 학습 및 참고용으로 자유롭게 사용하실 수 있습니다.
